@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://klaro-dq0.pages.dev/sitemap.xml
